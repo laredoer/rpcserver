@@ -29,7 +29,7 @@ require (
 	github.com/go-redis/redis v6.15.2+incompatible // indirect
 	github.com/golang/protobuf v1.3.1 // indirect
 	github.com/golang/snappy v0.0.1 // indirect
-	github.com/gorilla/websocket v1.4.0 // indirect
+	github.com/gorilla/websocket v1.4.1 // indirect
 	github.com/json-iterator/go v1.1.6 // indirect
 	github.com/mattn/go-isatty v0.0.7 // indirect
 	github.com/mattn/go-sqlite3 v1.10.0 // indirect
@@ -47,7 +47,6 @@ require (
 	github.com/stretchr/testify v1.3.0 // indirect
 	github.com/ugorji/go/codec v0.0.0-20190320090025-2dc34c0b8780 // indirect
 	github.com/urfave/cli v1.20.0 // indirect
-	github.com/xi2/xz v0.0.0-20171230120015-48954b6210f8 // indirect
 	github.com/yosssi/gmq v0.0.1 // indirect
 	github.com/zkfy/archiver v0.0.0-00010101000000-000000000000 // indirect
 	//github.com/zkfy/archiver v1.1.2 // indirect
